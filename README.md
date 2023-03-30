@@ -1,1 +1,1 @@
-# kayapool.github.com
+# KAYA Pool
