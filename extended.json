@@ -1,0 +1,40 @@
+{
+    "how-to-implement": "",
+    "info": {
+        "url_png_icon_64x64": "https://www.kayapool.com/KAYAPool-64x64.png",
+        "url_png_logo": "https://www.kayapool.com/KAYAPool-150x150.png",
+        "location": "Singapore",
+        "social": {
+            "twitter_handle": "PoolKaya",
+            "telegram_handle": "KayaPool",
+            "facebook_handle": "KayaPoolSingapore",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Kaya Pool",
+            "addr": "",
+            "city": "Singapore",
+            "country": "Singapore",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Cardano ADA Stake Pool Operator",
+            "server": "Mission driven pool to alleviate human suffering by donating minimum 10% of pool rewards to health emergency crisis like pandemic through relevant charities",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "pool1vfayajkdc0gw876lax5va6ygpfpsd8kz73k4y977emm3clnxlm5"
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": "KayaPool"
+    }
+}
